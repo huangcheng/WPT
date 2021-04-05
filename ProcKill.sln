@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcKill", "ProcKill\ProcKill.vcxproj", "{6D4A3848-1072-4A69-9D23-C3F388B51368}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D4A3848-1072-4A69-9D23-C3F388B51368}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D4A3848-1072-4A69-9D23-C3F388B51368}.Debug|Win32.Build.0 = Debug|Win32
+		{6D4A3848-1072-4A69-9D23-C3F388B51368}.Release|Win32.ActiveCfg = Release|Win32
+		{6D4A3848-1072-4A69-9D23-C3F388B51368}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
